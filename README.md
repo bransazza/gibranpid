@@ -1,9 +1,9 @@
 # gibranpid
 
 Nama    : Gibran Reza Al Ghazzali
-NIM     : 101022300124
-Kelas   : EL 47 04
-Library PID motor untuk memenuhi tugas SOD Library.
+\nNIM     : 101022300124
+\nKelas   : EL 47 04
+\nLibrary PID motor untuk memenuhi tugas SOD Library.
 
 ## Fitur
 - PID control (Kp, Ki, Kd)
